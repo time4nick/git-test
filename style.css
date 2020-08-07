@@ -1,6 +1,7 @@
 h1{
-   background: blue;
+   background: rgb(5, 5, 58);
    color: white;
+   text-transform: uppercase;
 }
 p {
    background: yellow;
