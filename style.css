@@ -1,7 +1,8 @@
 h1{
-   background: rgb(5, 5, 58);
+   background: rgb(3, 3, 74);
    color: white;
    text-transform: uppercase;
+   font-size: 1.2rem;
 }
 p {
    background: yellow;
